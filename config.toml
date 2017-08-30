@@ -1,0 +1,14 @@
+siteTitle="✉️ Mailroom Docs"
+baseColor = "#00CDBD"
+linkPrefix = "/gatsby-starter-documentation"
+docPages = [
+  "/docs/",
+  "/docs/installing/",
+  "/docs/log-in/",
+  "/docs/database/",
+  "/docs/sheets/",
+  "/docs/emailing/",
+  "/docs/support/",
+  "/docs/roadmap/",
+  "/docs/updating/",
+]
